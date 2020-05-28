@@ -6,8 +6,12 @@
   padding: 20px;
   font-size: 30px;
 }
+a {
+  text-decoration: none;
+}
 .rund {
   border-radius: 80%;
+  align-items: center;
 }
 .menu {
   display: flex;
